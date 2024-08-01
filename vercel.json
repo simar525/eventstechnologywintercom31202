@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://updatenews-25508-lnm5nd2pia-uc.a.run.app/$1"
+ }
+  ]
+}
